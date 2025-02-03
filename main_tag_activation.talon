@@ -1,4 +1,5 @@
-win.title: /Google Sheets/
+browser.host: docs.google.com
+browser.path: /spreadsheets/
 tag: browser
 -
 
